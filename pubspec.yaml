@@ -1,5 +1,5 @@
-name: tray_manager_example
-description: Demonstrates how to use the tray_manager plugin.
+name: az_url_lister
+description: Lists all your shortened URLs
 publish_to: 'none'
 
 environment:
